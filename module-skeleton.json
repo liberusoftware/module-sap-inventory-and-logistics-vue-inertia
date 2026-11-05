@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-inventory-and-logistics-vue-inertia",
+  "capabilityKey": "planned:sap:inventory-and-logistics",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-sap-inventory-and-logistics-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/sap/nextjs/inventory-and-logistics.md",
+  "presentationPlan": "projects/sap/vue/inventory-and-logistics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
